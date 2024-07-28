@@ -1,2 +1,2 @@
-jiaozd/armv8_images:v0.1
-homebrew/ubuntu22.04:master
+jiaozd/x86_ros_basic:latest
+jiaozd/armv8_basic:latest
